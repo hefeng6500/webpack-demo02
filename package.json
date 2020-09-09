@@ -1,0 +1,16 @@
+{
+  "name": "webpack-demo02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hefeng6500/webpack-demo02.git",
+  "author": "hefeng6500 <2443992009@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^4.4.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
